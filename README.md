@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hanson Truong
 - 👀 I’m interested in Information Technology!
 - 🌱 I’m currently learning IT/Cyber Security
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
