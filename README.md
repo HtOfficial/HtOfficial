@@ -4,6 +4,10 @@
 
 - 🌱 I’m currently learning IT/Cyber Security
 
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>Diskpart (Clean&Repair Drives) </b>
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Hanson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
