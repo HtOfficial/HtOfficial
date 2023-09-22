@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Hanson Truong
+<h1>Hi, I'm Hanson, an <a href="https://www.linkedin.com/in/hanson-truong-1804a0292/">IT Professional</a>☺</h1>
+
 - 👀 I’m interested in Information Technology!
+
 - 🌱 I’m currently learning IT/Cyber Security
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Hanson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
